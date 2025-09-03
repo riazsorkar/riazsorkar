@@ -6,9 +6,7 @@
 
 - 🔭 I’m currently working on **Problem Solving**
 
-- 🌱 I’m currently learning **Djang,python**
-
-- 👯 I’m looking to collaborate on **Github**
+- 🌱 I’m currently learning **ASP.NET Core,C#**
 
 - 💬 Ask me about **Programing Languages**
 

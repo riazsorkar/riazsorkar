@@ -87,25 +87,7 @@
   </p>
 </details>
 
----
 
-> 💡 *Pin your best 3-6 repositories in GitHub settings to auto-display them here!*
-
----
-
-## 📈 Activity & Streaks
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riazsorkar&theme=radical&hide_border=true&background=1a1a2e" alt="streak stats" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=riazsorkar&theme=radical&column=4&margin-w=15&margin-h=15&no-bg=true" alt="trophy"/>
-  </a>
-</p>
-
----
 
 ## 🏆 Certifications
 

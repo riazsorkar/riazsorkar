@@ -1,123 +1,122 @@
-<!-- Banner Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=800&color=3498db&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Riaz+%F0%9F%91%8B;.NET+%7C+Full-Stack+Developer;Building+Clean+%26+Scalable+Software;Open+to+Collaboration+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
+<!-- ============================================================
+     MD. SHAKAWAT HOSEN RIAZ — GitHub Profile README
+     Corporate / Professional Edition · 2026
+     ============================================================ -->
 
-<!-- Profile Stats -->
-<p align="center">
-  <a href="https://github.com/riazsorkar">
-    <img src="https://img.shields.io/github/followers/riazsorkar?style=for-the-badge&logo=github&color=2ea44f&labelColor=1a1a2e" alt="Followers"/>
-  </a>
-  <a href="https://github.com/riazsorkar?tab=repositories">
-    <img src="https://img.shields.io/github/stars/riazsorkar?style=for-the-badge&logo=github&color=f39c12&labelColor=1a1a2e" alt="Stars"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=riazsorkar&style=for-the-badge&color=3498db&labelColor=1a1a2e" alt="Profile Views"/>
-</p>
+<div align="center">
 
-<!-- Quick Links -->
-<p align="center">
-  <a href="https://linkedin.com/in/riazsorkar" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:riazsorkar709@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/riazsorkar" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://codeforces.com/profile/riazsorkar" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
-  </a>
-</p>
+<sub><code>Associate Software Engineer · Brain Station 23 Ltd. · Dhaka, Bangladesh</code></sub>
+
+<h1>Md. Shakawat Hosen Riaz</h1>
+
+<p><em>Building clean, scalable software — .NET · React · Docker</em></p>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-riazsorkar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/riazsorkar)
+[![Email](https://img.shields.io/badge/Email-riazsorkar709%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:riazsorkar709@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-riazsorkar-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/riazsorkar)
+[![Codeforces](https://img.shields.io/badge/Codeforces-riazsorkar-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/riazsorkar)
+
+</div>
 
 ---
 
-## 🎯 About Me
+## About
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=riazsorkar&show_icons=true&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=3498db&icon_color=f39c12" height="160" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riazsorkar&layout=compact&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=3498db" height="160" alt="languages" />
-</p>
-
-> 💼 **Associate Software Engineer** @ [Brain Station 23 Ltd.](https://brainstation-23.com)  
-> 🎓 **B.Sc. in CSE** @ Southeast University, Dhaka  
-> 🚀 Passionate about **.NET Ecosystem**, **Clean Architecture**, and **AI-Assisted Development**
+Hands-on experience in full-stack development and containerized deployment. Comfortable working in Agile and Scrum environments with sprint-based delivery. Committed to writing clean, maintainable code and delivering reliable software through continuous learning and real-world problem solving.
 
 ---
 
-## 🛠️ Tech Stack
+## Experience
 
-<p align="center">
-  <!-- Backend -->
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white&labelColor=1a1a2e" alt="C#"/>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white&labelColor=1a1a2e" alt=".NET"/>
-  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white&labelColor=1a1a2e" alt="ASP.NET Core"/>
-  <img src="https://img.shields.io/badge/Entity%20Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white&labelColor=1a1a2e" alt="EF Core"/>
-  
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=1a1a2e" alt="React"/>
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white&labelColor=1a1a2e" alt="Tailwind"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&labelColor=1a1a2e" alt="JavaScript"/>
-  
-  <!-- Database -->
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white&labelColor=1a1a2e" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white&labelColor=1a1a2e" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white&labelColor=1a1a2e" alt="MongoDB"/>
-  
-  <!-- DevOps -->
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=1a1a2e" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white&labelColor=1a1a2e" alt="Git"/>
-  
-  <!-- AI Tools -->
-  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat-square&logo=github&logoColor=white&labelColor=1a1a2e" alt="Copilot"/>
-  <img src="https://img.shields.io/badge/Claude%20AI-8A2BE2?style=flat-square&logo=anthropic&logoColor=white&labelColor=1a1a2e" alt="Claude"/>
-</p>
+**Associate Software Engineer** · [Brain Station 23 Ltd.](https://brainstation-23.com) · *Jan 2026 – Present*
 
-<details open>
-  <summary><b>📦 Architecture & Practices</b></summary>
-  <p align="center">
-    <code>✓ Clean Architecture</code>
-    <code>✓ Repository Pattern</code>
-    <code>✓ Dependency Injection</code>
-    <code>✓ JWT Authentication</code>
-    <code>✓ RESTful APIs</code>
-    <code>✓ Unit/E2E Testing</code>
-    <code>✓ nopCommerce Plugins</code>
-    <code>✓ BMAD Method</code>
+- Build and ship full-stack web features across frontend and backend using modern frameworks and REST APIs
+- Design and implement comprehensive testing strategies including unit, smoke, and end-to-end testing
+- Deploy containerized applications using Docker across development and production environments
+- Follow Agile and Scrum practices with sprint-based delivery
+
+**Trainee Software Engineer** · [Brain Station 23 Ltd.](https://brainstation-23.com) · *Jun 2025 – Dec 2025*
+
+- Developed backend services using C#, .NET Core, and Entity Framework Core
+- Built nopCommerce plugins and RESTful APIs with Swagger documentation
+- Optimised MySQL and SQL Server databases with Flyway DB migrations
+
+---
+
+## Projects
+
+**[Rental Management Platform](https://github.com/riazsorkar)** · `Java 21` `Spring Boot` `React` `PostgreSQL` · *2026*
+> Full-stack rental platform with JWT auth, role-based access, and clean layered architecture. Automated billing with BigDecimal precision. Dockerized for dev and production.
+
+**[Library Management System](https://github.com/riazsorkar)** · `ASP.NET Core` `MySQL` `JWT` `EF Core` · *2025*
+> Web-based system for book tracking, user management, and borrowing workflows. Clean Architecture with Repository Pattern and RESTful APIs.
+
+**[Lookbook Hotspot Widget](https://github.com/riazsorkar)** · `C#` `ASP.NET Core MVC` `nopCommerce` · *2025*
+> nopCommerce plugin with interactive product hotspots and responsive slider. Admin panel with caching optimisation.
+
+---
+
+## Technical Stack
+
+**Languages**
+`C` `·` `C#` `·` `JavaScript`
+
+**Backend**
+`ASP.NET Core` `·` `ASP.NET Core MVC` `·` `Entity Framework Core` `·` `RESTful API` `·` `Swagger/OpenAPI` `·` `JWT Authentication` `·` `Spring Boot`
+
+**Frontend**
+`React` `·` `HTML5` `·` `CSS3` `·` `Tailwind CSS`
+
+**Databases**
+`MySQL` `·` `PostgreSQL` `·` `MongoDB` `·` `Firebase`
+
+**Testing**
+`Unit Testing` `·` `Smoke Testing` `·` `End-to-End (E2E) Testing`
+
+**DevOps & Tooling**
+`Docker` `·` `Git` `·` `GitHub`
+
+**Architecture & Practices**
+`Clean Architecture` `·` `Repository Pattern` `·` `Dependency Injection` `·` `nopCommerce Plugin Development`
+
+**AI Tools**
+`BMAD Method` `·` `Prompt Engineering` `·` `Claude AI` `·` `GPT-4` `·` `GitHub Copilot` `·` `Cursor IDE`
+
+---
+
+## Education
+
+**B.Sc. in Computer Science & Engineering** — CGPA: 3.10 / 4.00
+Southeast University, Dhaka · *2020 – 2026*
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=riazsorkar&show_icons=true&hide_border=true&theme=default&title_color=111111&icon_color=111111&text_color=555555&bg_color=ffffff00" height="150" alt="GitHub Stats" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riazsorkar&layout=compact&hide_border=true&theme=default&title_color=111111&text_color=555555&bg_color=ffffff00" height="150" alt="Top Languages" />
+
+</div>
+
+---
+
+## Certifications
+
+| Certification | Issuer |
+|---|---|
+| Prompt Engineering Foundations: Start Talking to AI Efficiently | Brain Station 23 Ltd. |
+| Cyber Security and Physical Protection | Brain Station 23 Ltd. |
+
+---
+
+<div align="center">
+  <p>Open to collaboration on <code>.NET</code> and full-stack projects.</p>
+  <p>
+    <a href="https://linkedin.com/in/riazsorkar">LinkedIn</a> &nbsp;·&nbsp;
+    <a href="mailto:riazsorkar709@gmail.com">Email</a>
   </p>
-</details>
-
-
-
-## 🏆 Certifications
-
-<p align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/Prompt_Engineering-Foundations-3498db?style=for-the-badge&logo=brainstation23&labelColor=1a1a2e" alt="Prompt Engineering"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Cyber_Security-Physical_Protection-e74c3c?style=for-the-badge&logo=shield&labelColor=1a1a2e" alt="Cyber Security"/>
-  </a>
-</p>
-
----
-
-## 💬 Let's Connect
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=500&color=2ecc71&center=true&width=500&lines=Open+to+collaborate+on+.NET+projects%3BLet's+build+something+amazing+together+%F0%9F%9A%80" alt="cta" />
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/riazsorkar" target="_blank">
-    <img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
-  </a>
-  <a href="mailto:riazsorkar709@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/✉️_Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/>
-  </a>
-</p>
-
-<!-- Footer -->
-<p align="center">
-  <sub>Built with ❤️ using GitHub Markdown • Updated: <strong>2026</strong></sub>
-</p>
+  <sub>Updated: <strong>2026</strong></sub>
+</div>

@@ -1,34 +1,141 @@
-<!--[I am GitHub Readme Generator's creator](https://i.ibb.co/h8d0kDv/Yellow-and-White-Geometric-Business-Facebook-Cover.png)-->
-<h1 align="center">Hi 👋, I'm Md. Shakawat Hosen Riaz</h1>
-<h3 align="center">A Web Developer and Programmer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=riazsorkar&label=Profile%20views&color=0e75b6&style=flat" alt="riazsorkar" /> </p>
-
-- 🔭 I’m currently working on **Problem Solving**
-
-- 🌱 I’m currently learning **ASP.NET Core,C#**
-
-- 💬 Ask me about **Programing Languages**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/riazsorkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="riazsorkar" height="30" width="40" /></a>
-<a href="https://twitter.com/riazsorkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="riazsorkar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/riazsorkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="riazsorkar" height="30" width="40" /></a>
-<a href="https://fb.com/riazsorkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="riazsorkar" height="30" width="40" /></a>
-<a href="https://instagram.com/riazsorkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="riazsorkar" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/riazsorkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="riazsorkar" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/riazsorkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="riazsorkar" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/riazsorkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="riazsorkar" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/riazsorkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="riazsorkar" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/riazsorkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="riazsorkar" height="30" width="40" /></a>
+<!-- Banner Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=800&color=3498db&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Riaz+%F0%9F%91%8B;.NET+%7C+Full-Stack+Developer;Building+Clean+%26+Scalable+Software;Open+to+Collaboration+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<!-- Profile Stats -->
+<p align="center">
+  <a href="https://github.com/riazsorkar">
+    <img src="https://img.shields.io/github/followers/riazsorkar?style=for-the-badge&logo=github&color=2ea44f&labelColor=1a1a2e" alt="Followers"/>
+  </a>
+  <a href="https://github.com/riazsorkar?tab=repositories">
+    <img src="https://img.shields.io/github/stars/riazsorkar?style=for-the-badge&logo=github&color=f39c12&labelColor=1a1a2e" alt="Stars"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=riazsorkar&style=for-the-badge&color=3498db&labelColor=1a1a2e" alt="Profile Views"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=riazsorkar&show_icons=true&locale=en&layout=compact" alt="riazsorkar" /></p>
+<!-- Quick Links -->
+<p align="center">
+  <a href="https://linkedin.com/in/riazsorkar" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:riazsorkar709@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/riazsorkar" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://codeforces.com/profile/riazsorkar" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=riazsorkar&show_icons=true&locale=en" alt="riazsorkar" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riazsorkar&" alt="riazsorkar" /></p>
+## 🎯 About Me
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=riazsorkar&show_icons=true&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=3498db&icon_color=f39c12" height="160" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riazsorkar&layout=compact&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=3498db" height="160" alt="languages" />
+</p>
+
+> 💼 **Associate Software Engineer** @ [Brain Station 23 Ltd.](https://brainstation-23.com)  
+> 🎓 **B.Sc. in CSE** @ Southeast University, Dhaka  
+> 🚀 Passionate about **.NET Ecosystem**, **Clean Architecture**, and **AI-Assisted Development**
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white&labelColor=1a1a2e" alt="C#"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white&labelColor=1a1a2e" alt=".NET"/>
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white&labelColor=1a1a2e" alt="ASP.NET Core"/>
+  <img src="https://img.shields.io/badge/Entity%20Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white&labelColor=1a1a2e" alt="EF Core"/>
+  
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=1a1a2e" alt="React"/>
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white&labelColor=1a1a2e" alt="Tailwind"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&labelColor=1a1a2e" alt="JavaScript"/>
+  
+  <!-- Database -->
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white&labelColor=1a1a2e" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white&labelColor=1a1a2e" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white&labelColor=1a1a2e" alt="MongoDB"/>
+  
+  <!-- DevOps -->
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=1a1a2e" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white&labelColor=1a1a2e" alt="Git"/>
+  
+  <!-- AI Tools -->
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat-square&logo=github&logoColor=white&labelColor=1a1a2e" alt="Copilot"/>
+  <img src="https://img.shields.io/badge/Claude%20AI-8A2BE2?style=flat-square&logo=anthropic&logoColor=white&labelColor=1a1a2e" alt="Claude"/>
+</p>
+
+<details open>
+  <summary><b>📦 Architecture & Practices</b></summary>
+  <p align="center">
+    <code>✓ Clean Architecture</code>
+    <code>✓ Repository Pattern</code>
+    <code>✓ Dependency Injection</code>
+    <code>✓ JWT Authentication</code>
+    <code>✓ RESTful APIs</code>
+    <code>✓ Unit/E2E Testing</code>
+    <code>✓ nopCommerce Plugins</code>
+    <code>✓ BMAD Method</code>
+  </p>
+</details>
+
+---
+
+> 💡 *Pin your best 3-6 repositories in GitHub settings to auto-display them here!*
+
+---
+
+## 📈 Activity & Streaks
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riazsorkar&theme=radical&hide_border=true&background=1a1a2e" alt="streak stats" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=riazsorkar&theme=radical&column=4&margin-w=15&margin-h=15&no-bg=true" alt="trophy"/>
+  </a>
+</p>
+
+---
+
+## 🏆 Certifications
+
+<p align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/Prompt_Engineering-Foundations-3498db?style=for-the-badge&logo=brainstation23&labelColor=1a1a2e" alt="Prompt Engineering"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Cyber_Security-Physical_Protection-e74c3c?style=for-the-badge&logo=shield&labelColor=1a1a2e" alt="Cyber Security"/>
+  </a>
+</p>
+
+---
+
+## 💬 Let's Connect
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=500&color=2ecc71&center=true&width=500&lines=Open+to+collaborate+on+.NET+projects%3BLet's+build+something+amazing+together+%F0%9F%9A%80" alt="cta" />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/riazsorkar" target="_blank">
+    <img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+  </a>
+  <a href="mailto:riazsorkar709@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/✉️_Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/>
+  </a>
+</p>
+
+<!-- Footer -->
+<p align="center">
+  <sub>Built with ❤️ using GitHub Markdown • Updated: <strong>2026</strong></sub>
+</p>
